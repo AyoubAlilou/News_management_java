@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d101118-e42a-4339-9a64-683cc7e6a4c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbnews@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pDMiycSYQeNycXa4qHnblep22C" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProjectNews\src" />
+      <recent name="C:\Users\wafa\Desktop\Tic F\ProjectNews\src\Main" />
+      <recent name="C:\Users\wafa\Desktop\Tic F\ProjectNews\src\Editor" />
+      <recent name="C:\Users\wafa\Desktop\Tic F\ProjectNews\src\Reader" />
+      <recent name="C:\Users\wafa\Desktop\Tic F\ProjectNews\src\User" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectNews\src" />
+      <recent name="D:\ProjectNews\src\News" />
+      <recent name="C:\Users\wafa\Desktop\Tic F\ProjectNews\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="News" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginController">
+    <configuration name="LoginController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.LoginController" />
+      <module name="ProjectNews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User.UserDAO" />
+      <module name="ProjectNews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginController" />
+        <item itemvalue="Application.UserDAO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7c947290" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d101118-e42a-4339-9a64-683cc7e6a4c9" name="Default Changelist" comment="" />
+      <created>1614713339387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614713339387</updated>
+      <workItem from="1614713362095" duration="10609000" />
+      <workItem from="1614934866799" duration="7373000" />
+      <workItem from="1615053499344" duration="1289000" />
+      <workItem from="1615142821303" duration="10334000" />
+      <workItem from="1615224753220" duration="2182000" />
+      <workItem from="1615380863344" duration="722000" />
+      <workItem from="1615564427585" duration="72000" />
+      <workItem from="1615660459606" duration="6784000" />
+      <workItem from="1615751850015" duration="9357000" />
+      <workItem from="1615806891255" duration="10309000" />
+      <workItem from="1615831376472" duration="13374000" />
+      <workItem from="1616086422885" duration="24103000" />
+      <workItem from="1616111868394" duration="4039000" />
+      <workItem from="1616158173710" duration="12660000" />
+      <workItem from="1616171525079" duration="1080000" />
+      <workItem from="1616508204595" duration="88000" />
+      <workItem from="1618516832164" duration="21618000" />
+      <workItem from="1618568891668" duration="13538000" />
+      <workItem from="1618606996250" duration="13874000" />
+      <workItem from="1618820347972" duration="153000" />
+      <workItem from="1618823192327" duration="1055000" />
+      <workItem from="1618866713588" duration="2000" />
+      <workItem from="1618866729528" duration="600000" />
+      <workItem from="1618872437733" duration="10766000" />
+      <workItem from="1618910666165" duration="9198000" />
+      <workItem from="1618950171816" duration="13309000" />
+      <workItem from="1619425394923" duration="306000" />
+      <workItem from="1621072165693" duration="7923000" />
+      <workItem from="1621085676383" duration="5251000" />
+      <workItem from="1621177307120" duration="1143000" />
+      <workItem from="1621197944091" duration="20906000" />
+      <workItem from="1621239227880" duration="3332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
